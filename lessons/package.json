@@ -5,6 +5,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^13.4.0"
+    "h2o2": "5.4.0",
+    "handlebars": "4.0.5",
+    "hapi": "13.4.0",
+    "vision": "4.1.0"
   }
 }
